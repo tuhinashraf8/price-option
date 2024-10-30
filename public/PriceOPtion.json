@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Fitness Bootcamp",
+        "description": "High-intensity group workout sessions designed to push your limits and improve overall fitness.",
+        "duration": "60 minutes",
+        "schedule": "Monday, Wednesday, Friday - 6:00 AM to 7:00 AM",
+        "price": "$100"
+    },
+    {
+        "id": 2,
+        "name": "Yoga Classes",
+        "description": "Relaxing and rejuvenating yoga sessions aimed at improving flexibility, balance, and mental clarity.",
+        "duration": "75 minutes",
+        "schedule": "Tuesday, Thursday - 7:00 PM to 8:15 PM",
+        "price": "$80 "
+    },
+    {
+        "id": 3,
+        "name": "Personal Training",
+        "description": "One-on-one training sessions tailored to your specific fitness goals and needs.",
+        "duration": "60 minutes",
+        "schedule": "By appointment only",
+        "price": "$50 "
+    },
+    {
+        "id": 4,
+        "name": "Strength Training",
+        "description": "Focused strength training workouts designed to build muscle and increase strength.",
+        "duration": "60 minutes",
+        "schedule": "Monday to Friday - 5:00 PM to 6:00 PM",
+        "price": "$90 "
+    },
+    {
+        "id": 5,
+        "name": "Pilates Classes",
+        "description": "Low-impact exercises that focus on strengthening muscles, improving posture, and increasing flexibility.",
+        "duration": "60 minutes",
+        "schedule": "Monday, Wednesday - 9:00 AM to 10:00 AM",
+        "price": "$85 "
+    }
+]
